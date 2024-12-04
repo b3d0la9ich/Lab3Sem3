@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/benchmarks.dir/src/Queue.cpp.o CMakeFiles/benchmarks.dir/src/Stack.cpp.o CMakeFiles/benchmarks.dir/src/ListOne.cpp.o CMakeFiles/benchmarks.dir/src/ListSecond.cpp.o CMakeFiles/benchmarks.dir/src/HashTable.cpp.o CMakeFiles/benchmarks.dir/src/AVL.cpp.o CMakeFiles/benchmarks.dir/src/Array.cpp.o -o benchmarks  -lbenchmark -lpthread 
