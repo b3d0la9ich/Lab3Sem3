@@ -1,6 +1,6 @@
 CMakeFiles/main_program.dir/src/ListSecond.cpp.o: \
- /home/b3d0la9a/don/Lab3Sem3/src/ListSecond.cpp \
- /usr/include/stdc-predef.h /home/b3d0la9a/don/Lab3Sem3/src/LS.h \
+ /home/chard/Code/cheta/Lab3Sem3/src/ListSecond.cpp \
+ /usr/include/stdc-predef.h /home/chard/Code/cheta/Lab3Sem3/src/LS.h \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

@@ -1,7 +1,7 @@
 CMakeFiles/tests.dir/src/ListOne.cpp.o: \
- /home/b3d0la9a/don/Lab3Sem3/src/ListOne.cpp /usr/include/stdc-predef.h \
- /home/b3d0la9a/don/Lab3Sem3/src/LO.h /usr/include/c++/13/string \
- /usr/include/c++/13/bits/requires_hosted.h \
+ /home/chard/Code/cheta/Lab3Sem3/src/ListOne.cpp \
+ /usr/include/stdc-predef.h /home/chard/Code/cheta/Lab3Sem3/src/LO.h \
+ /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -152,7 +152,7 @@ CMakeFiles/tests.dir/src/ListOne.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
  /usr/include/c++/13/bits/istream.tcc \
- /home/b3d0la9a/don/Lab3Sem3/src/Node.h /usr/include/c++/13/sstream \
+ /home/chard/Code/cheta/Lab3Sem3/src/Node.h /usr/include/c++/13/sstream \
  /usr/include/c++/13/bits/sstream.tcc /usr/include/c++/13/fstream \
  /usr/include/c++/13/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \

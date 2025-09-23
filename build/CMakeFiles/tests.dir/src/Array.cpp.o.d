@@ -1,6 +1,6 @@
 CMakeFiles/tests.dir/src/Array.cpp.o: \
- /home/b3d0la9a/don/Lab3Sem3/src/Array.cpp /usr/include/stdc-predef.h \
- /home/b3d0la9a/don/Lab3Sem3/src/Array.h /usr/include/c++/13/iostream \
+ /home/chard/Code/cheta/Lab3Sem3/src/Array.cpp /usr/include/stdc-predef.h \
+ /home/chard/Code/cheta/Lab3Sem3/src/Array.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

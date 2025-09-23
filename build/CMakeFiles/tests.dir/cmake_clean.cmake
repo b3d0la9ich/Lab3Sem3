@@ -23,12 +23,15 @@ file(REMOVE_RECURSE
   "CMakeFiles/tests.dir/tests/test_LS.cpp.o.d"
   "CMakeFiles/tests.dir/tests/test_array.cpp.o"
   "CMakeFiles/tests.dir/tests/test_array.cpp.o.d"
+  "CMakeFiles/tests.dir/tests/test_main.cpp.o"
+  "CMakeFiles/tests.dir/tests/test_main.cpp.o.d"
   "CMakeFiles/tests.dir/tests/test_queue.cpp.o"
   "CMakeFiles/tests.dir/tests/test_queue.cpp.o.d"
   "CMakeFiles/tests.dir/tests/test_stack.cpp.o"
   "CMakeFiles/tests.dir/tests/test_stack.cpp.o.d"
   "tests"
   "tests.pdb"
+  "tests[1]_tests.cmake"
 )
 
 # Per-language clean rules from dependency scanning.

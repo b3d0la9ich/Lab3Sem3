@@ -1,0 +1,1979 @@
+Start testing: Sep 24 03:15 +07
+----------------------------------------------------------
+1/76 Testing: QueueTest.EnqueueDequeueTest
+1/76 Test: QueueTest.EnqueueDequeueTest
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=QueueTest.EnqueueDequeueTest" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"QueueTest.EnqueueDequeueTest" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = QueueTest.EnqueueDequeueTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.EnqueueDequeueTest
+[       OK ] QueueTest.EnqueueDequeueTest (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.EnqueueDequeueTest" end time: Sep 24 03:15 +07
+"QueueTest.EnqueueDequeueTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/76 Testing: QueueTest.PrintTest
+2/76 Test: QueueTest.PrintTest
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=QueueTest.PrintTest" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"QueueTest.PrintTest" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = QueueTest.PrintTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.PrintTest
+[       OK ] QueueTest.PrintTest (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.PrintTest" end time: Sep 24 03:15 +07
+"QueueTest.PrintTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/76 Testing: QueueTest.SerializeToTextTest
+3/76 Test: QueueTest.SerializeToTextTest
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=QueueTest.SerializeToTextTest" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"QueueTest.SerializeToTextTest" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = QueueTest.SerializeToTextTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.SerializeToTextTest
+[       OK ] QueueTest.SerializeToTextTest (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.SerializeToTextTest" end time: Sep 24 03:15 +07
+"QueueTest.SerializeToTextTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/76 Testing: QueueTest.DeserializeFromTextTest
+4/76 Test: QueueTest.DeserializeFromTextTest
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=QueueTest.DeserializeFromTextTest" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"QueueTest.DeserializeFromTextTest" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = QueueTest.DeserializeFromTextTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.DeserializeFromTextTest
+[       OK ] QueueTest.DeserializeFromTextTest (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.DeserializeFromTextTest" end time: Sep 24 03:15 +07
+"QueueTest.DeserializeFromTextTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/76 Testing: QueueTest.SerializeToBinaryTest
+5/76 Test: QueueTest.SerializeToBinaryTest
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=QueueTest.SerializeToBinaryTest" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"QueueTest.SerializeToBinaryTest" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = QueueTest.SerializeToBinaryTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.SerializeToBinaryTest
+[       OK ] QueueTest.SerializeToBinaryTest (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.SerializeToBinaryTest" end time: Sep 24 03:15 +07
+"QueueTest.SerializeToBinaryTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/76 Testing: QueueTest.DeserializeFromBinaryTest
+6/76 Test: QueueTest.DeserializeFromBinaryTest
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=QueueTest.DeserializeFromBinaryTest" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"QueueTest.DeserializeFromBinaryTest" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = QueueTest.DeserializeFromBinaryTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.DeserializeFromBinaryTest
+[       OK ] QueueTest.DeserializeFromBinaryTest (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.DeserializeFromBinaryTest" end time: Sep 24 03:15 +07
+"QueueTest.DeserializeFromBinaryTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/76 Testing: QueueTest.ClearTest
+7/76 Test: QueueTest.ClearTest
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=QueueTest.ClearTest" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"QueueTest.ClearTest" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = QueueTest.ClearTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.ClearTest
+[       OK ] QueueTest.ClearTest (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.ClearTest" end time: Sep 24 03:15 +07
+"QueueTest.ClearTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/76 Testing: StackTest.PushAndPop
+8/76 Test: StackTest.PushAndPop
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=StackTest.PushAndPop" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"StackTest.PushAndPop" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = StackTest.PushAndPop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PushAndPop
+[       OK ] StackTest.PushAndPop (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PushAndPop" end time: Sep 24 03:15 +07
+"StackTest.PushAndPop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/76 Testing: StackTest.SerializeToText
+9/76 Test: StackTest.SerializeToText
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=StackTest.SerializeToText" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"StackTest.SerializeToText" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = StackTest.SerializeToText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.SerializeToText
+[       OK ] StackTest.SerializeToText (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.SerializeToText" end time: Sep 24 03:15 +07
+"StackTest.SerializeToText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/76 Testing: StackTest.DeserializeFromText
+10/76 Test: StackTest.DeserializeFromText
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=StackTest.DeserializeFromText" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"StackTest.DeserializeFromText" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = StackTest.DeserializeFromText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.DeserializeFromText
+[       OK ] StackTest.DeserializeFromText (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.DeserializeFromText" end time: Sep 24 03:15 +07
+"StackTest.DeserializeFromText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/76 Testing: StackTest.SerializeToBinary
+11/76 Test: StackTest.SerializeToBinary
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=StackTest.SerializeToBinary" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"StackTest.SerializeToBinary" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = StackTest.SerializeToBinary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.SerializeToBinary
+[       OK ] StackTest.SerializeToBinary (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.SerializeToBinary" end time: Sep 24 03:15 +07
+"StackTest.SerializeToBinary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/76 Testing: StackTest.DeserializeFromBinary
+12/76 Test: StackTest.DeserializeFromBinary
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=StackTest.DeserializeFromBinary" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"StackTest.DeserializeFromBinary" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = StackTest.DeserializeFromBinary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.DeserializeFromBinary
+[       OK ] StackTest.DeserializeFromBinary (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.DeserializeFromBinary" end time: Sep 24 03:15 +07
+"StackTest.DeserializeFromBinary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/76 Testing: StackTest.PrintEmptyStack
+13/76 Test: StackTest.PrintEmptyStack
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=StackTest.PrintEmptyStack" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"StackTest.PrintEmptyStack" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = StackTest.PrintEmptyStack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.PrintEmptyStack
+[       OK ] StackTest.PrintEmptyStack (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.PrintEmptyStack" end time: Sep 24 03:15 +07
+"StackTest.PrintEmptyStack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/76 Testing: DoubleListTest.AddToHead
+14/76 Test: DoubleListTest.AddToHead
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.AddToHead" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.AddToHead" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.AddToHead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.AddToHead
+[       OK ] DoubleListTest.AddToHead (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.AddToHead" end time: Sep 24 03:15 +07
+"DoubleListTest.AddToHead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/76 Testing: DoubleListTest.AddToTail
+15/76 Test: DoubleListTest.AddToTail
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.AddToTail" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.AddToTail" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.AddToTail
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.AddToTail
+[       OK ] DoubleListTest.AddToTail (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.AddToTail" end time: Sep 24 03:15 +07
+"DoubleListTest.AddToTail" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/76 Testing: DoubleListTest.RemoveFromHead
+16/76 Test: DoubleListTest.RemoveFromHead
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.RemoveFromHead" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.RemoveFromHead" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.RemoveFromHead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.RemoveFromHead
+[       OK ] DoubleListTest.RemoveFromHead (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.RemoveFromHead" end time: Sep 24 03:15 +07
+"DoubleListTest.RemoveFromHead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/76 Testing: DoubleListTest.RemoveFromTail
+17/76 Test: DoubleListTest.RemoveFromTail
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.RemoveFromTail" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.RemoveFromTail" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.RemoveFromTail
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.RemoveFromTail
+[       OK ] DoubleListTest.RemoveFromTail (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.RemoveFromTail" end time: Sep 24 03:15 +07
+"DoubleListTest.RemoveFromTail" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/76 Testing: DoubleListTest.RemoveByValue
+18/76 Test: DoubleListTest.RemoveByValue
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.RemoveByValue" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.RemoveByValue" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.RemoveByValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.RemoveByValue
+[       OK ] DoubleListTest.RemoveByValue (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.RemoveByValue" end time: Sep 24 03:15 +07
+"DoubleListTest.RemoveByValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/76 Testing: DoubleListTest.Find
+19/76 Test: DoubleListTest.Find
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.Find" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.Find" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.Find
+[       OK ] DoubleListTest.Find (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.Find" end time: Sep 24 03:15 +07
+"DoubleListTest.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/76 Testing: DoubleListTest.Clear
+20/76 Test: DoubleListTest.Clear
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.Clear" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.Clear" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.Clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.Clear
+[       OK ] DoubleListTest.Clear (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.Clear" end time: Sep 24 03:15 +07
+"DoubleListTest.Clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/76 Testing: DoubleListTest.SerializeToTextAndDeserializeFromText
+21/76 Test: DoubleListTest.SerializeToTextAndDeserializeFromText
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.SerializeToTextAndDeserializeFromText" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.SerializeToTextAndDeserializeFromText" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.SerializeToTextAndDeserializeFromText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.SerializeToTextAndDeserializeFromText
+[       OK ] DoubleListTest.SerializeToTextAndDeserializeFromText (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.SerializeToTextAndDeserializeFromText" end time: Sep 24 03:15 +07
+"DoubleListTest.SerializeToTextAndDeserializeFromText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/76 Testing: DoubleListTest.SerializeToBinaryAndDeserializeFromBinary
+22/76 Test: DoubleListTest.SerializeToBinaryAndDeserializeFromBinary
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.SerializeToBinaryAndDeserializeFromBinary" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.SerializeToBinaryAndDeserializeFromBinary" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.SerializeToBinaryAndDeserializeFromBinary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.SerializeToBinaryAndDeserializeFromBinary
+[       OK ] DoubleListTest.SerializeToBinaryAndDeserializeFromBinary (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.SerializeToBinaryAndDeserializeFromBinary" end time: Sep 24 03:15 +07
+"DoubleListTest.SerializeToBinaryAndDeserializeFromBinary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/76 Testing: DoubleListTest.EmptyList
+23/76 Test: DoubleListTest.EmptyList
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=DoubleListTest.EmptyList" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"DoubleListTest.EmptyList" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = DoubleListTest.EmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DoubleListTest
+[ RUN      ] DoubleListTest.EmptyList
+[       OK ] DoubleListTest.EmptyList (0 ms)
+[----------] 1 test from DoubleListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DoubleListTest.EmptyList" end time: Sep 24 03:15 +07
+"DoubleListTest.EmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/76 Testing: ListOneTest.AddToHead
+24/76 Test: ListOneTest.AddToHead
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.AddToHead" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.AddToHead" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.AddToHead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.AddToHead
+[       OK ] ListOneTest.AddToHead (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.AddToHead" end time: Sep 24 03:15 +07
+"ListOneTest.AddToHead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/76 Testing: ListOneTest.AddToTail
+25/76 Test: ListOneTest.AddToTail
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.AddToTail" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.AddToTail" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.AddToTail
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.AddToTail
+[       OK ] ListOneTest.AddToTail (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.AddToTail" end time: Sep 24 03:15 +07
+"ListOneTest.AddToTail" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/76 Testing: ListOneTest.RemoveHead
+26/76 Test: ListOneTest.RemoveHead
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveHead" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveHead" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveHead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveHead
+[       OK ] ListOneTest.RemoveHead (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveHead" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveHead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/76 Testing: ListOneTest.RemoveTail
+27/76 Test: ListOneTest.RemoveTail
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveTail" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveTail" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveTail
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveTail
+[       OK ] ListOneTest.RemoveTail (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveTail" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveTail" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/76 Testing: ListOneTest.RemoveByValue
+28/76 Test: ListOneTest.RemoveByValue
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveByValue" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveByValue" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveByValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveByValue
+[       OK ] ListOneTest.RemoveByValue (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveByValue" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveByValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/76 Testing: ListOneTest.Search
+29/76 Test: ListOneTest.Search
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.Search" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.Search" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.Search
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.Search
+[       OK ] ListOneTest.Search (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.Search" end time: Sep 24 03:15 +07
+"ListOneTest.Search" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/76 Testing: ListOneTest.Clear
+30/76 Test: ListOneTest.Clear
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.Clear" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.Clear" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.Clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.Clear
+[       OK ] ListOneTest.Clear (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.Clear" end time: Sep 24 03:15 +07
+"ListOneTest.Clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/76 Testing: ListOneTest.SerializeDeserializeText
+31/76 Test: ListOneTest.SerializeDeserializeText
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.SerializeDeserializeText" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.SerializeDeserializeText" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.SerializeDeserializeText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.SerializeDeserializeText
+[       OK ] ListOneTest.SerializeDeserializeText (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.SerializeDeserializeText" end time: Sep 24 03:15 +07
+"ListOneTest.SerializeDeserializeText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/76 Testing: ListOneTest.SerializeDeserializeBinary
+32/76 Test: ListOneTest.SerializeDeserializeBinary
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.SerializeDeserializeBinary" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.SerializeDeserializeBinary" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.SerializeDeserializeBinary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.SerializeDeserializeBinary
+[       OK ] ListOneTest.SerializeDeserializeBinary (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.SerializeDeserializeBinary" end time: Sep 24 03:15 +07
+"ListOneTest.SerializeDeserializeBinary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/76 Testing: ListOneTest.EmptyListPrint
+33/76 Test: ListOneTest.EmptyListPrint
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.EmptyListPrint" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.EmptyListPrint" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.EmptyListPrint
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.EmptyListPrint
+[       OK ] ListOneTest.EmptyListPrint (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.EmptyListPrint" end time: Sep 24 03:15 +07
+"ListOneTest.EmptyListPrint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/76 Testing: ListOneTest.RemoveByValueHead
+34/76 Test: ListOneTest.RemoveByValueHead
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveByValueHead" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveByValueHead" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveByValueHead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveByValueHead
+[       OK ] ListOneTest.RemoveByValueHead (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveByValueHead" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveByValueHead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/76 Testing: ListOneTest.RemoveByValueMiddle
+35/76 Test: ListOneTest.RemoveByValueMiddle
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveByValueMiddle" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveByValueMiddle" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveByValueMiddle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveByValueMiddle
+[       OK ] ListOneTest.RemoveByValueMiddle (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveByValueMiddle" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveByValueMiddle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/76 Testing: ListOneTest.RemoveByValueTail
+36/76 Test: ListOneTest.RemoveByValueTail
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveByValueTail" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveByValueTail" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveByValueTail
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveByValueTail
+[       OK ] ListOneTest.RemoveByValueTail (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveByValueTail" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveByValueTail" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/76 Testing: ListOneTest.RemoveByValueNotFound
+37/76 Test: ListOneTest.RemoveByValueNotFound
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveByValueNotFound" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveByValueNotFound" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveByValueNotFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveByValueNotFound
+[       OK ] ListOneTest.RemoveByValueNotFound (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveByValueNotFound" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveByValueNotFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/76 Testing: ListOneTest.RemoveByValueEmptyList
+38/76 Test: ListOneTest.RemoveByValueEmptyList
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ListOneTest.RemoveByValueEmptyList" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ListOneTest.RemoveByValueEmptyList" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ListOneTest.RemoveByValueEmptyList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListOneTest
+[ RUN      ] ListOneTest.RemoveByValueEmptyList
+[       OK ] ListOneTest.RemoveByValueEmptyList (0 ms)
+[----------] 1 test from ListOneTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ListOneTest.RemoveByValueEmptyList" end time: Sep 24 03:15 +07
+"ListOneTest.RemoveByValueEmptyList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/76 Testing: HashTableTest.InsertAndGet
+39/76 Test: HashTableTest.InsertAndGet
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.InsertAndGet" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.InsertAndGet" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.InsertAndGet
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.InsertAndGet
+[       OK ] HashTableTest.InsertAndGet (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.InsertAndGet" end time: Sep 24 03:15 +07
+"HashTableTest.InsertAndGet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/76 Testing: HashTableTest.UpdateExistingKey
+40/76 Test: HashTableTest.UpdateExistingKey
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.UpdateExistingKey" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.UpdateExistingKey" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.UpdateExistingKey
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.UpdateExistingKey
+[       OK ] HashTableTest.UpdateExistingKey (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.UpdateExistingKey" end time: Sep 24 03:15 +07
+"HashTableTest.UpdateExistingKey" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/76 Testing: HashTableTest.RemoveKey
+41/76 Test: HashTableTest.RemoveKey
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.RemoveKey" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.RemoveKey" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.RemoveKey
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.RemoveKey
+[       OK ] HashTableTest.RemoveKey (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.RemoveKey" end time: Sep 24 03:15 +07
+"HashTableTest.RemoveKey" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/76 Testing: HashTableTest.RemoveNonexistentKey
+42/76 Test: HashTableTest.RemoveNonexistentKey
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.RemoveNonexistentKey" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.RemoveNonexistentKey" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.RemoveNonexistentKey
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.RemoveNonexistentKey
+[       OK ] HashTableTest.RemoveNonexistentKey (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.RemoveNonexistentKey" end time: Sep 24 03:15 +07
+"HashTableTest.RemoveNonexistentKey" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/76 Testing: HashTableTest.ClearTable
+43/76 Test: HashTableTest.ClearTable
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.ClearTable" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.ClearTable" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.ClearTable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.ClearTable
+[       OK ] HashTableTest.ClearTable (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.ClearTable" end time: Sep 24 03:15 +07
+"HashTableTest.ClearTable" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/76 Testing: HashTableTest.SerializeToTextAndDeserializeFromText
+44/76 Test: HashTableTest.SerializeToTextAndDeserializeFromText
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.SerializeToTextAndDeserializeFromText" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.SerializeToTextAndDeserializeFromText" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.SerializeToTextAndDeserializeFromText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.SerializeToTextAndDeserializeFromText
+[       OK ] HashTableTest.SerializeToTextAndDeserializeFromText (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.SerializeToTextAndDeserializeFromText" end time: Sep 24 03:15 +07
+"HashTableTest.SerializeToTextAndDeserializeFromText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/76 Testing: HashTableTest.SerializeToBinaryAndDeserializeFromBinary
+45/76 Test: HashTableTest.SerializeToBinaryAndDeserializeFromBinary
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.SerializeToBinaryAndDeserializeFromBinary" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.SerializeToBinaryAndDeserializeFromBinary" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.SerializeToBinaryAndDeserializeFromBinary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.SerializeToBinaryAndDeserializeFromBinary
+[       OK ] HashTableTest.SerializeToBinaryAndDeserializeFromBinary (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.SerializeToBinaryAndDeserializeFromBinary" end time: Sep 24 03:15 +07
+"HashTableTest.SerializeToBinaryAndDeserializeFromBinary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/76 Testing: HashTableTest.PrintTable
+46/76 Test: HashTableTest.PrintTable
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.PrintTable" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.PrintTable" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.PrintTable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.PrintTable
+[       OK ] HashTableTest.PrintTable (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.PrintTable" end time: Sep 24 03:15 +07
+"HashTableTest.PrintTable" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/76 Testing: HashTableTest.EmptyTable
+47/76 Test: HashTableTest.EmptyTable
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=HashTableTest.EmptyTable" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"HashTableTest.EmptyTable" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = HashTableTest.EmptyTable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HashTableTest
+[ RUN      ] HashTableTest.EmptyTable
+[       OK ] HashTableTest.EmptyTable (0 ms)
+[----------] 1 test from HashTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashTableTest.EmptyTable" end time: Sep 24 03:15 +07
+"HashTableTest.EmptyTable" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/76 Testing: AVLTreeTest.InsertAndSearch
+48/76 Test: AVLTreeTest.InsertAndSearch
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.InsertAndSearch" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.InsertAndSearch" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.InsertAndSearch
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.InsertAndSearch
+[       OK ] AVLTreeTest.InsertAndSearch (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.InsertAndSearch" end time: Sep 24 03:15 +07
+"AVLTreeTest.InsertAndSearch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/76 Testing: AVLTreeTest.Remove
+49/76 Test: AVLTreeTest.Remove
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.Remove" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.Remove" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.Remove
+[       OK ] AVLTreeTest.Remove (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.Remove" end time: Sep 24 03:15 +07
+"AVLTreeTest.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/76 Testing: AVLTreeTest.Balancing
+50/76 Test: AVLTreeTest.Balancing
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.Balancing" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.Balancing" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.Balancing
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.Balancing
+[       OK ] AVLTreeTest.Balancing (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.Balancing" end time: Sep 24 03:15 +07
+"AVLTreeTest.Balancing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/76 Testing: AVLTreeTest.Clear
+51/76 Test: AVLTreeTest.Clear
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.Clear" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.Clear" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.Clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.Clear
+[       OK ] AVLTreeTest.Clear (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.Clear" end time: Sep 24 03:15 +07
+"AVLTreeTest.Clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/76 Testing: AVLTreeTest.SerializeAndDeserializeText
+52/76 Test: AVLTreeTest.SerializeAndDeserializeText
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.SerializeAndDeserializeText" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.SerializeAndDeserializeText" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.SerializeAndDeserializeText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.SerializeAndDeserializeText
+[       OK ] AVLTreeTest.SerializeAndDeserializeText (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.SerializeAndDeserializeText" end time: Sep 24 03:15 +07
+"AVLTreeTest.SerializeAndDeserializeText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/76 Testing: AVLTreeTest.SerializeAndDeserializeBinary
+53/76 Test: AVLTreeTest.SerializeAndDeserializeBinary
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.SerializeAndDeserializeBinary" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.SerializeAndDeserializeBinary" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.SerializeAndDeserializeBinary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.SerializeAndDeserializeBinary
+[       OK ] AVLTreeTest.SerializeAndDeserializeBinary (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.SerializeAndDeserializeBinary" end time: Sep 24 03:15 +07
+"AVLTreeTest.SerializeAndDeserializeBinary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/76 Testing: AVLTreeTest.PrintTree
+54/76 Test: AVLTreeTest.PrintTree
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.PrintTree" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.PrintTree" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.PrintTree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.PrintTree
+[       OK ] AVLTreeTest.PrintTree (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.PrintTree" end time: Sep 24 03:15 +07
+"AVLTreeTest.PrintTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/76 Testing: AVLTreeTest.RotateLeft
+55/76 Test: AVLTreeTest.RotateLeft
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.RotateLeft" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.RotateLeft" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.RotateLeft
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.RotateLeft
+[       OK ] AVLTreeTest.RotateLeft (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.RotateLeft" end time: Sep 24 03:15 +07
+"AVLTreeTest.RotateLeft" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/76 Testing: AVLTreeTest.LeftRightRotation
+56/76 Test: AVLTreeTest.LeftRightRotation
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.LeftRightRotation" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.LeftRightRotation" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.LeftRightRotation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.LeftRightRotation
+[       OK ] AVLTreeTest.LeftRightRotation (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.LeftRightRotation" end time: Sep 24 03:15 +07
+"AVLTreeTest.LeftRightRotation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/76 Testing: AVLTreeTest.RightLeftRotation
+57/76 Test: AVLTreeTest.RightLeftRotation
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.RightLeftRotation" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.RightLeftRotation" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.RightLeftRotation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.RightLeftRotation
+[       OK ] AVLTreeTest.RightLeftRotation (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.RightLeftRotation" end time: Sep 24 03:15 +07
+"AVLTreeTest.RightLeftRotation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/76 Testing: AVLTreeTest.ComplexInsertSequence
+58/76 Test: AVLTreeTest.ComplexInsertSequence
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.ComplexInsertSequence" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.ComplexInsertSequence" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.ComplexInsertSequence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.ComplexInsertSequence
+[       OK ] AVLTreeTest.ComplexInsertSequence (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.ComplexInsertSequence" end time: Sep 24 03:15 +07
+"AVLTreeTest.ComplexInsertSequence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/76 Testing: AVLTreeTest.EmptyTree
+59/76 Test: AVLTreeTest.EmptyTree
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.EmptyTree" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.EmptyTree" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.EmptyTree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.EmptyTree
+[       OK ] AVLTreeTest.EmptyTree (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.EmptyTree" end time: Sep 24 03:15 +07
+"AVLTreeTest.EmptyTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/76 Testing: AVLTreeTest.NoDuplicatesAllowed
+60/76 Test: AVLTreeTest.NoDuplicatesAllowed
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=AVLTreeTest.NoDuplicatesAllowed" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"AVLTreeTest.NoDuplicatesAllowed" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = AVLTreeTest.NoDuplicatesAllowed
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AVLTreeTest
+[ RUN      ] AVLTreeTest.NoDuplicatesAllowed
+[       OK ] AVLTreeTest.NoDuplicatesAllowed (0 ms)
+[----------] 1 test from AVLTreeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AVLTreeTest.NoDuplicatesAllowed" end time: Sep 24 03:15 +07
+"AVLTreeTest.NoDuplicatesAllowed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/76 Testing: ArrayTest.Insert
+61/76 Test: ArrayTest.Insert
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.Insert" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.Insert" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.Insert
+[       OK ] ArrayTest.Insert (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.Insert" end time: Sep 24 03:15 +07
+"ArrayTest.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/76 Testing: ArrayTest.Get
+62/76 Test: ArrayTest.Get
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.Get" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.Get" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.Get
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.Get
+[       OK ] ArrayTest.Get (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.Get" end time: Sep 24 03:15 +07
+"ArrayTest.Get" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/76 Testing: ArrayTest.SerializeToTextAndDeserializeFromText
+63/76 Test: ArrayTest.SerializeToTextAndDeserializeFromText
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.SerializeToTextAndDeserializeFromText" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.SerializeToTextAndDeserializeFromText" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.SerializeToTextAndDeserializeFromText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.SerializeToTextAndDeserializeFromText
+[       OK ] ArrayTest.SerializeToTextAndDeserializeFromText (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.SerializeToTextAndDeserializeFromText" end time: Sep 24 03:15 +07
+"ArrayTest.SerializeToTextAndDeserializeFromText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/76 Testing: ArrayTest.SerializeToBinaryAndDeserializeFromBinary
+64/76 Test: ArrayTest.SerializeToBinaryAndDeserializeFromBinary
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.SerializeToBinaryAndDeserializeFromBinary" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.SerializeToBinaryAndDeserializeFromBinary" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.SerializeToBinaryAndDeserializeFromBinary
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.SerializeToBinaryAndDeserializeFromBinary
+[       OK ] ArrayTest.SerializeToBinaryAndDeserializeFromBinary (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.SerializeToBinaryAndDeserializeFromBinary" end time: Sep 24 03:15 +07
+"ArrayTest.SerializeToBinaryAndDeserializeFromBinary" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/76 Testing: ArrayTest.SerializeEmptyArray
+65/76 Test: ArrayTest.SerializeEmptyArray
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.SerializeEmptyArray" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.SerializeEmptyArray" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.SerializeEmptyArray
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.SerializeEmptyArray
+[       OK ] ArrayTest.SerializeEmptyArray (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.SerializeEmptyArray" end time: Sep 24 03:15 +07
+"ArrayTest.SerializeEmptyArray" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/76 Testing: ArrayTest.RemoveElement
+66/76 Test: ArrayTest.RemoveElement
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.RemoveElement" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.RemoveElement" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.RemoveElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.RemoveElement
+[       OK ] ArrayTest.RemoveElement (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.RemoveElement" end time: Sep 24 03:15 +07
+"ArrayTest.RemoveElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/76 Testing: ArrayTest.ReplaceElement
+67/76 Test: ArrayTest.ReplaceElement
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.ReplaceElement" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.ReplaceElement" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.ReplaceElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.ReplaceElement
+[       OK ] ArrayTest.ReplaceElement (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.ReplaceElement" end time: Sep 24 03:15 +07
+"ArrayTest.ReplaceElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/76 Testing: ArrayTest.GetLength
+68/76 Test: ArrayTest.GetLength
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.GetLength" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.GetLength" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.GetLength
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.GetLength
+[       OK ] ArrayTest.GetLength (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.GetLength" end time: Sep 24 03:15 +07
+"ArrayTest.GetLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/76 Testing: ArrayTest.DisplayArray
+69/76 Test: ArrayTest.DisplayArray
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=ArrayTest.DisplayArray" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"ArrayTest.DisplayArray" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTest.DisplayArray
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTest
+[ RUN      ] ArrayTest.DisplayArray
+[       OK ] ArrayTest.DisplayArray (0 ms)
+[----------] 1 test from ArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTest.DisplayArray" end time: Sep 24 03:15 +07
+"ArrayTest.DisplayArray" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/76 Testing: MainTest.HashtableCommands
+70/76 Test: MainTest.HashtableCommands
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=MainTest.HashtableCommands" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"MainTest.HashtableCommands" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MainTest.HashtableCommands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.HashtableCommands
+[       OK ] MainTest.HashtableCommands (0 ms)
+[----------] 1 test from MainTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.HashtableCommands" end time: Sep 24 03:15 +07
+"MainTest.HashtableCommands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/76 Testing: MainTest.ListOneCommands
+71/76 Test: MainTest.ListOneCommands
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=MainTest.ListOneCommands" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"MainTest.ListOneCommands" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MainTest.ListOneCommands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.ListOneCommands
+[       OK ] MainTest.ListOneCommands (0 ms)
+[----------] 1 test from MainTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.ListOneCommands" end time: Sep 24 03:15 +07
+"MainTest.ListOneCommands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/76 Testing: MainTest.ListTwoCommands
+72/76 Test: MainTest.ListTwoCommands
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=MainTest.ListTwoCommands" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"MainTest.ListTwoCommands" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MainTest.ListTwoCommands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.ListTwoCommands
+[       OK ] MainTest.ListTwoCommands (0 ms)
+[----------] 1 test from MainTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.ListTwoCommands" end time: Sep 24 03:15 +07
+"MainTest.ListTwoCommands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/76 Testing: MainTest.ArrayCommands
+73/76 Test: MainTest.ArrayCommands
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=MainTest.ArrayCommands" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"MainTest.ArrayCommands" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MainTest.ArrayCommands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.ArrayCommands
+[       OK ] MainTest.ArrayCommands (0 ms)
+[----------] 1 test from MainTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.ArrayCommands" end time: Sep 24 03:15 +07
+"MainTest.ArrayCommands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/76 Testing: MainTest.QueueCommands
+74/76 Test: MainTest.QueueCommands
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=MainTest.QueueCommands" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"MainTest.QueueCommands" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MainTest.QueueCommands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.QueueCommands
+[       OK ] MainTest.QueueCommands (0 ms)
+[----------] 1 test from MainTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.QueueCommands" end time: Sep 24 03:15 +07
+"MainTest.QueueCommands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/76 Testing: MainTest.StackCommands
+75/76 Test: MainTest.StackCommands
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=MainTest.StackCommands" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"MainTest.StackCommands" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MainTest.StackCommands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.StackCommands
+[       OK ] MainTest.StackCommands (0 ms)
+[----------] 1 test from MainTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.StackCommands" end time: Sep 24 03:15 +07
+"MainTest.StackCommands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/76 Testing: MainTest.AVLTreeCommands
+76/76 Test: MainTest.AVLTreeCommands
+Command: "/home/chard/Code/cheta/Lab3Sem3/build/tests" "--gtest_filter=MainTest.AVLTreeCommands" "--gtest_also_run_disabled_tests"
+Directory: /home/chard/Code/cheta/Lab3Sem3/build
+"MainTest.AVLTreeCommands" start time: Sep 24 03:15 +07
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MainTest.AVLTreeCommands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.AVLTreeCommands
+[       OK ] MainTest.AVLTreeCommands (0 ms)
+[----------] 1 test from MainTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.AVLTreeCommands" end time: Sep 24 03:15 +07
+"MainTest.AVLTreeCommands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 24 03:15 +07

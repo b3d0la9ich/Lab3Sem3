@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/b3d0la9a/don/Lab3Sem3/src
+CXX_INCLUDES = -I/home/chard/Code/cheta/Lab3Sem3/src
 
-CXX_FLAGS = -g -std=gnu++17
+CXX_FLAGS = --coverage -O0 -g -g -std=c++17
 
